@@ -1,2 +1,3 @@
 select sysdate from dual;
 --commented
+--new comment 1
