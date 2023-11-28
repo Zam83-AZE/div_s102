@@ -1,1 +1,4 @@
-select sysdate from dual
+select sysdate from dual;
+--commented
+--new comment 1
+--sent comment 1
